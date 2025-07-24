@@ -1,0 +1,28 @@
+# === .gitignore ===
+
+# Node.js
+node_modules/
+.env
+a.txt
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Build files
+dist/
+build/
+
+# OS & IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# React
+frontend/node_modules/
+frontend/build/
+
+# dotenv files
+**/.env
