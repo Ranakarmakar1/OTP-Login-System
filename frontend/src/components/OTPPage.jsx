@@ -37,7 +37,7 @@ const OTPPage = () => {
           <br />
           🔗{" "}
           <a
-            href="https://github.com/yourusername/nutrimeal"
+            href="https://github.com/Ranakarmakar1/OTP-Login-System"
             target="_blank"
             rel="noreferrer"
           >
